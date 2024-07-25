@@ -57,9 +57,3 @@ prebuilt_etc {
     src: "usb_compositions.conf",
     vendor: true,
 }
-
-prebuilt_etc {
-    name: "usb_compositions.conf",
-    src: "usb_compositions.conf",
-    vendor: true,
-}
